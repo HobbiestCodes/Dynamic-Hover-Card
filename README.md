@@ -12,6 +12,4 @@ https://github.com/HobbiestCodes/Dynamic-Hover-Card/assets/79841865/8473e5a3-7bb
 
 # Credits 🥇
 
-<h2>
-  All credits goes to respect owner [Dev Adarsh](https://devAdarsh.me/) 
-</h2>
+# All credits goes to respect owner [Dev Adarsh](devAdarsh.me)
